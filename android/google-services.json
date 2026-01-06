@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653267935428",
+    "project_id": "ecoscan-ai-e6b9f",
+    "storage_bucket": "ecoscan-ai-e6b9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653267935428:android:c362619a0b89e107232991",
+        "android_client_info": {
+          "package_name": "com.dietcoke.ecoscanai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ6w87dQHJ3EYJTJY6X31TnNukwAJiXBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
